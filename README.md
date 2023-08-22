@@ -1,2 +1,2 @@
 # know-emoji
-Created with CodeSandbox
+Tells the meaning of chosen emoji
